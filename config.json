@@ -1,0 +1,82 @@
+{
+  "levels": [
+    {
+      "outlay": "level1.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 0,
+          "spawn": "random"
+        }      
+      ],
+      "powerups": [
+        {
+          "type": 0,
+          "despawn": 7,
+          "duration": 3
+        },
+        {
+          "type": 1,
+          "despawn": 15,
+          "duration": -1
+        },
+        {
+          "type": 2,
+          "despawn": 15,
+          "duration": 5
+        },
+        {
+          "type": 3,
+          "despawn": 15,
+          "duration": 5
+        }
+      ],
+      "goal": 0.8
+    },
+    {
+      "outlay": "level2.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 1,
+          "spawn": "random"
+        }
+      ],
+      "powerups": [
+        {
+          "type": 0,
+          "despawn": 10,
+          "duration": 3
+        },
+        {
+          "type": 1,
+          "despawn": 7,
+          "duration": -1
+        },
+        {
+          "type": 2,
+          "despawn": 7,
+          "duration": 5
+        },
+        {
+          "type": 3,
+          "despawn": 7,
+          "duration": 5
+        }
+      ],      
+      "goal": 0.8
+    }
+  ],
+  "lives": 3
+}
+

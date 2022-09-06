@@ -1,0 +1,38 @@
+{
+  "levels": [
+    {
+      "outlay": "level1.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "60,30"
+        },
+        {
+          "type": 0,
+          "spawn": "40,20"
+        }
+      ],
+      "goal": 0.8
+    },
+    {
+      "outlay": "level2.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "50,20"
+        },
+        {
+          "type": 0,
+          "spawn": "20,20"
+        },
+        {
+          "type": 1,
+          "spawn": "40,20"
+        }
+      ],
+      "goal": 0.8
+    }
+  ],
+  "lives": 3
+}
+

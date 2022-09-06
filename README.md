@@ -1,4 +1,4 @@
-<h2>**INFO1113 Assignment 1 Report**</h2>
+<h2>INFO1113 Assignment 1 Report</h2>
 
 <h4>Description</h4>
 
